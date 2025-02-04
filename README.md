@@ -1,2 +1,2 @@
-# web_development-Resume
+# html-practice-Resume
 resume practice
